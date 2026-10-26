@@ -1,6 +1,6 @@
 cask "gear" do
-  version "0.1.11"
-  sha256 "b94009788206f2fd0a5d2990357bc6879bab20f281b1a36f1aea8126f0f26821"
+  version "0.1.12"
+  sha256 "552fd15d33aa739a73eedec2d2bdac0bada3611c7afb65279ee3d7b027323c9d"
 
   url "https://github.com/cLLeB/gear/releases/download/v#{version}/Gear_#{version}_universal.dmg"
   name "Gear"
